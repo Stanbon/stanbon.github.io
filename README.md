@@ -3,7 +3,7 @@
   <body>
     Test test test test, we testen heel goed maar het moet nog beter 
     <div>
-    <img src="https://tenor.com/view/sound-oriented-robin-sp-robin-robin-summeretto-gif-13930098369544149290.gif" alt="speed"/>
+    <video href="https://www.youtube.com/watch?v=KGtko3y2RXQ" alt="Fireship video"/>
   </body>
 </html>
 
